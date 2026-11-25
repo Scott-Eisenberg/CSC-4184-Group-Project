@@ -1,0 +1,14 @@
+rsid,source_group,source_text_from_pdf,pathogenicity,on_clinvar,clinvar_link,clinvar_pathogenicity,tnbc,preeclampsia,lupus,label
+rs115698972,lupus study,African- ancestry- specific variant IKKβ p.Glu502Lys confers high lupus risk | Nature Genetics,1,1,,Benign,0,0,1,lupus
+rs2230926,lupus study,https://pmc. ncbi.nlm.nih. gov/articles/P MC13387164/,1,1,,Likely Benign,0,0,1,lupus
+rs4808616,breast cancer study,Improved Polygenic Risk,1,,,,1,0,0,tnbc
+rs11668840,breast cancer study,Improved Polygenic Risk,1,,,,1,0,0,tnbc
+rs12974508,breast cancer study,Improved Polygenic Risk,1,,,,1,0,0,tnbc
+rs76664032,breast cancer study,Improved Polygenic Risk,1,,,,1,0,0,tnbc
+rs12584067,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs1485766,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs6838834,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs1063320,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs1610696,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs9380142,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
+rs1707,preeclampsia study,The role of genetics in maternal susceptibility to preeclampsia in women of African ancestry.,1,0,,,0,1,0,preeclampsia
